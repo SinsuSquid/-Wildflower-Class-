@@ -8,3 +8,4 @@ If you're not even sure about how to clone this repo, consult [here](https://git
 - [Extra01 : More than Basic GitHub](./GitHub/More%20than%20Basic%20GitHub.ipynb)
 - [Lecture00 : Neural Network 101](./Lectures/Lecture00/Neural%20Network%20101.ipynb)
 - [Lecture01 : On PyTorch](./Lectures/Lecture01/On%20PyTorch.ipynb)
+- [Lecture02 : GNN & torch-geometric](./Lectures/Lecture02/GNN%20and%20torch_geometric.ipynb)
