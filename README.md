@@ -1,6 +1,6 @@
 # 💻Wildflower Class🌻
 GNN tutorial for R1215
-([Soft Matter Computational Chemistry Lab.](https://nanobioom.sogang.ac.kr), Sogang University)
+([Soft Matter Computational Chemistry Lab.](https://nanobiocom.sogang.ac.kr), Sogang University)
 
 If you're not even sure about how to clone this repo, consult [here](https://github.com/SinsuSquid/Wildflower-Class/blob/main/GitHub/Basic%20GitHub.ipynb).
 
