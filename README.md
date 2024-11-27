@@ -10,8 +10,7 @@ If you're not even sure about how to clone this repo, consult [here](https://git
 - knows korean 😅
 
 ## Prerequisite
-Consult [Set-up Guide](./Setup/Setup%20Guide.ipynb)
-
+Consult [requirements.txt](./requirements.txt) and [Set-up Guide](./Setup/Setup%20Guide.ipynb)
 ## Contents
 - [Extra00 : Basic GitHub](./GitHub/Basic%20GitHub.ipynb)
 - [Extra01 : More than Basic GitHub](./GitHub/More%20than%20Basic%20GitHub.ipynb)
