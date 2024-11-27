@@ -21,4 +21,5 @@ If you're not even sure about how to clone this repo, consult [here](https://git
 
 ## Comments
 - All files, lecture notes are free to use, just credit this page
+- If you are interested in GNNs, please also visit [Chemomile](https://github.com/SinsuSquid/Chemomile)!
 - To any personnel from R1215, DO NOT CONTACT ME AFTER MY GRADUATION 😤
