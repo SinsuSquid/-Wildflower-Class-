@@ -20,6 +20,7 @@ Consult [requirements.txt](./requirements.txt) and [Set-up Guide](./Setup/Setup%
 - [Lecture02 : GNN & torch-geometric](./Lectures/Lecture02/GNN%20and%20torch_geometric.ipynb)
 - [Lecture03 : Mini-Project](./Lectures/Lecture03/Mini-Project.ipynb)
 - [Lecture04 : A Few More Things](./Lectures/Lecture04/A%20Few%20More%20Things.ipynb)
+- [Lecture04.5 : Hyperparameter Optimization](./Lectures/Lecture04/Hyperparameter%20Optimization.ipynb)
 
 ## Comments
 - All files, lecture notes are free to use, just credit this page
